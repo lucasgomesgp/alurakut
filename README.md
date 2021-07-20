@@ -1,5 +1,6 @@
 <h1 align="center"> Alurakut </h1>  
-#### Projeto feito durante a Imersão de React da Alura
+
+### Projeto feito durante a Imersão de React da Alura
 
 Mais informações [Alura](https://www.alura.com.br/)
 
